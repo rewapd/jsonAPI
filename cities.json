@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-06T09:57:41.714Z",
+      "notes": "dsd",
+      "position": {
+        "lat": "25.283196012824373",
+        "lng": "85.09872436523438"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Cuoqin",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-01-06T09:59:04.391Z",
+      "notes": "asd\n",
+      "position": {
+        "lat": "30.315987718557867",
+        "lng": "84.96826171875001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Makhdumpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-06T10:00:38.074Z",
+      "notes": "wad",
+      "position": {
+        "lat": "25.03210571563096",
+        "lng": "84.88449096679688"
+      },
+      "id": 98443200
+    }
+  ]
+}
